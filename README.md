@@ -1,7 +1,9 @@
 # vscode-support
+
 setting for ease dragon 
+
  ## json task config should look like
-   
+```
 {
     // See https://go.microsoft.com/fwlink/?LinkId=733558
     // for the documentation about the tasks.json format
@@ -18,8 +20,11 @@ setting for ease dragon
             }
         }
     ]
-    
- ## workspace should should be 
+```
+
+ ## workspace should should be :
+
+```
 {
 	"folders": [
 		{
@@ -29,7 +34,10 @@ setting for ease dragon
 	"settings": {
 	}
 }
+```
+
 ## setting.json 
-  
+```
 {
 }
+```
